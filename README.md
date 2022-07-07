@@ -3,12 +3,12 @@
 </h2>
 
 
-<p align="center"I am a self-taught developer of several technologies but currently I am focusing on the web and I am currently taking a bootcamp in Front-end with Vue.js. I would like to continue developing and complement my knowledge with React.js.✨
+<p align="center">I am a self-taught developer of several technologies but currently I am focusing on the web and I am currently taking a bootcamp in Front-end with Vue.js. I would like to continue developing and complement my knowledge with React.js.✨
 </p>
 
 
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/sergio-sepulveda-978677239)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/penti2s/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
