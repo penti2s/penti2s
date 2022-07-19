@@ -3,7 +3,13 @@
 </h2>
 
 
-<p align="center">I am a self-taught developer of several technologies but currently I am focusing on the web and I am currently taking a bootcamp in Front-end with Vue.js. I would like to continue developing and complement my knowledge with React.js.✨
+<p align="center">                            Programador autodictacta con formación en la Univerdad del Bio-bio y desarrollo de un
+                            bootcamp en Front-end con el framework de Vuejs, durante el desarrollo de este ultimo he
+                            creado multiples plataformas web con multiples lenguajes y framework.
+                            <br/>
+                            <br/>
+                            Estoy enamorado de la programación y me gustaría en un futuro complementar mis conocimientos
+                            con algún lenguaje de back-end como nodejs
 </p>
 
 
