@@ -192,19 +192,6 @@ const myProjects = {
 }
 ```
 
----
-
-## 💡 Filosofía de Desarrollo
-
-> "El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de qué hacer y qué no hacer. El profesionalismo y la artesanía provienen de valores y disciplina."
-
-- 🎯 Código limpio y mantenible
-- 📝 Documentación clara y precisa
-- 🧪 Testing como prioridad
-- 🔄 Mejora continua
-- 🤝 Trabajo en equipo colaborativo
-
----
 
 ## 📫 Contacto
 
